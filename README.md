@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhil-EM
 - 🌱 I’m currently working on web based Full stack projects.
-- 📫 How to reach me akhilemcalicut@gmail.com 
+- 📫 Reach me akhilemcalicut@gmail.com 
 - linkedin https://www.linkedin.com/in/akhil-em-236a69182/
 
 <!---
