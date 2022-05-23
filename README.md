@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Akhil-EM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web application development and mobile application development.
-- 💞️ I’m looking to collaborate on anything that is interesting.
-- 📫 How to reach me akhilemcalicut@gmail.com
+- 👋 Hi, I’m Akhil-EM
+- 🌱 I’m currently working on web based Full stack projects.
+- 📫 How to reach me akhilemcalicut@gmail.com 
+- linked in https://www.linkedin.com/in/akhil-em-236a69182/
 
 <!---
 Akhil-EM/Akhil-EM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
